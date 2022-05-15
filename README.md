@@ -1,6 +1,6 @@
 ## Hello 👋
-🟢 My name is Olman, I'm from Costa Rica. 
-🟢 I'm Informatic Engineer Student, I enjoy training everyday on free time programming languages, and learning new technologies.
+- My name is Olman, I'm from Costa Rica. 
+- I'm Informatic Engineer Student, I enjoy training everyday on free time programming languages, and learning new technologies.
 
 ## Skills 🧑‍💻
 🟢 Intermedium programer from C++ and Java.
