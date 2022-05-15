@@ -1,9 +1,7 @@
-### Hi there 👋
-#Pueba
-#dfs
-#dfs
-#dsf
-#dfsdf
+### My name is Olman, I'm from Costa Rica. 👋
+### I'm Informatic Engineer Student.🧑‍💻
+### 🟢 I training everyday on free time programming languages, and learning new technologies.
+
 <!--
 **Sazmael/Sazmael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
