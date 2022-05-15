@@ -3,9 +3,9 @@
 - I'm Informatic Engineer Student, I enjoy training everyday on free time programming languages, and learning new technologies.
 
 ## Skills 🧑‍💻
-🟢 Intermedium programer from C++ and Java.
-🟢 Databases SQL server and MySQL intermedium.
-🟢 Linux, Cibersecurity introduction.
+- Intermedium programer from C++ and Java.
+- Databases SQL server and MySQL intermedium.
+- Linux, Cibersecurity introduction.
 
 ## Contact
 Find all my socials and Resume on my portfolio (https://olman-davila-portfolio.notion.site/Olman-D-vila-Portfolio-c60bf5830c774234afdb9b79f6759605)
