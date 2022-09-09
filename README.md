@@ -3,7 +3,7 @@
 - I'm Informatic Engineer Student, I enjoy training everyday on free time programming languages, and learning new technologies.
 
 ## Skills 🧑‍💻
-- Intermedium programer from C++ and Java.
+- Intermedium C++, Java and C#.
 - Databases SQL server and MySQL intermedium.
 - Linux, Cibersecurity introduction.
 
