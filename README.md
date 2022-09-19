@@ -1,5 +1,5 @@
 ## Hello 👋
-- My name is Olman, I'm from Costa Rica. 
+- My name is Olman Davila, I'm from Costa Rica. 
 - I'm Informatic Engineer Student, I enjoy training everyday on free time programming languages, and learning new technologies.
 
 ## Skills 🧑‍💻
