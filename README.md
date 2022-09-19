@@ -8,7 +8,7 @@
 - Linux, Cibersecurity introduction.
 
 ## Contact
-Find all my socials and Resume on my portfolio (https://olman-davila-portfolio.notion.site/Olman-D-vila-Portfolio-c60bf5830c774234afdb9b79f6759605)
+Find all my socials and Resume on my portfolio (https://sazmael.notion.site/Olman-Davila-Portfolio-c822f973e70f487dbb3f73e4a354b3ce)
 
 <!--
 **Sazmael/Sazmael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
